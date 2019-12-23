@@ -4,22 +4,6 @@
     "namespace": "android_app",
     "package_name": "com.example.gtpush",
     "sha256_cert_fingerprints":
-    ["EA:CF:B8:2D:3F:3F:09:5F:4A:68:DD:CF:CD:6B:51:B7:A8:CE:99:A3:02:64:02:46:43:09:18:4F:24:1B:C0:40"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://zhangflzhang.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.gtpush",
-    "sha256_cert_fingerprints":
-    ["EA:CF:B8:2D:3F:3F:09:5F:4A:68:DD:CF:CD:6B:51:B7:A8:CE:99:A3:02:64:02:46:43:09:18:4F:24:1B:C0:40"]
+    ["61:A7:71:8E:EF:0D:1B:53:25:2E:99:3C:C7:9D:F3:17:B2:19:44:96:6F:DE:E4:60:19:71:5F:29:DC:E4:ED:C4"]
   }
 }]
